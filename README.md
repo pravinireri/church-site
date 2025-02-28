@@ -1,4 +1,4 @@
-# Christ Church Assemblies Website
+# Christ Church Assemblies Website (ARCHIVE)
 
 Welcome to the official website of Christ Church Assemblies (CCA). This site provides information about our church, leadership, verse of the year, and contact details. We hope it serves as a helpful resource for both our congregation and visitors.
 
